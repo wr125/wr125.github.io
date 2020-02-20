@@ -1,6 +1,6 @@
 ---
 layout: page
-title: London Gopher (February) Meetup
+title: Meetups
 permalink: /blog/
 ---
 
